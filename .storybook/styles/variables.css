@@ -1,0 +1,26 @@
+:root {
+  --font-base: "Poppins",Arial,Sans-Serif;
+  --font-header: "Gilroy",Arial,Sans-Serif;
+  --color-white: #fff;
+  --color-alabaster: #f7f7f7;
+  --color-corn: #a58861;
+  --color-corn-lighter: #c4a276;
+  --color-shark: #191a1e;
+  --color-shark-lighter: #212225;
+  --color-border: rgba(25,26,30,.05);
+  --color-tippy: hsla(0,0%,100%,.85);
+  --color-tippy-arrow: hsla(0,0%,100%,.95);
+  --color-selected-bg: #f3f3f3;
+  --margin-sm: 1rem;
+  --margin-md: 3rem;
+  --margin-lg: 6rem;
+  --size-text-base: 1rem,0vw,1rem;
+  --line-height-base: 1.75rem,0vw,1.75rem;
+  --size-text-h1: 2.5rem,3vw,5.25rem;
+  --line-height-h1: 3rem,3.5vw,6rem;
+  --size-text-h2: 1.25rem,1.25vw,2.25rem;
+  --line-height-h2: 1.5rem,1.5vw,2.5rem;
+  --size-text-h3: 1.15rem,1.5vw,1.45rem;
+  --line-height-h3: 1.25rem 2vw,1.65rem;
+  --size-headline: 1rem,1.5vw,1.25rem;
+}
