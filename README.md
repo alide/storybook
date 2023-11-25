@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Installation
+
+```bash
+npm install
+```
+
 ### To run Storybook
 
 ```bash
